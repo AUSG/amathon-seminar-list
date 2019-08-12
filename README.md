@@ -1,1 +1,6 @@
 # amathon-seminar-list
+
+- 명진님: Amplify로 풀사이클 개발 체험하기
+- 지혁님: Serverless Framework로 React배포하기
+- 서현님: CircleCI + ElasticBeanstalk을 활용한 React 배포 자동화
+- [윤호님](https://github.com/yoonhoGo): [클라우드 컨테이너 환경에서 Back-end API 구성하기 AtoZ](./yoonhoGo-session/README.md)
