@@ -1,3 +1,6 @@
 [submodule "yoonhoGo-session"]
 	path = yoonhoGo-session
 	url = https://github.com/yoonhoGo/2019-amathon-session
+[submodule "seohyunYoon-session"]
+	path = seohyunYoon-session
+	url = https://github.com/seohyun0120/amathon-eb-circleci.git
