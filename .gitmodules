@@ -4,3 +4,9 @@
 [submodule "seohyunYoon-session"]
 	path = seohyunYoon-session
 	url = https://github.com/seohyun0120/amathon-eb-circleci.git
+[submodule "images/rayleighko-session"]
+	path = images/rayleighko-session
+	url = https://github.com/rayleighko/amathon-amplify-FCD.git
+[submodule "rayleighko-session"]
+	path = rayleighko-session
+	url = https://github.com/rayleighko/amathon-amplify-FCD.git
